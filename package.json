@@ -1,5 +1,5 @@
 {
-  "name": "ERC721 Base Marketplace",
+  "name": "erc721-market",
   "version": "1.0.0",
   "description": "This is a base project for erc721 based marketplaces",
   "main": "truffle-config.js",
